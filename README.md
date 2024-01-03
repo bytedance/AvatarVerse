@@ -47,7 +47,7 @@ pip3 install -v git+https://github.com/facebookresearch/xformers.git@main#egg=xf
 
 
 ## Model Card
-Our models are provided on the [Huggingface Model Page](https://huggingface.co/AvatarVerse/AvatarVerse/) with the OpenRAIL license.
+Our models are provided on the [Huggingface Model Page](https://huggingface.co/liqingzju/AvatarVerse/) with the OpenRAIL license.
 
 | Model      | Base Model | Resolution |
 | ----------- | ----------- | ----------- |
