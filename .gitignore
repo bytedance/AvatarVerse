@@ -1,0 +1,17 @@
+**/.ipynb_checkpoints
+**/__pycache__
+*.npy
+*.dae
+logs
+.idea/
+tool.py
+imagen/
+*.bin
+
+.DS_Store
+
+eval/imgs/
+*.html
+*.pth
+*.ckpt
+*.safetensors
