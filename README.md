@@ -1,7 +1,7 @@
 # AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose (AAAI2024)
-Huichao Zhang, Bowen Chen, Hao Yang, Liao Qu1, Xu Wang, Li Chen, Chao Long, Feida Zhu, Daniel K. Du, Shilei Wen
+Huichao Zhang, Bowen Chen, Hao Yang, Liao Qu, Xu Wang, Li Chen, Chao Long, Feida Zhu, Daniel K. Du, Shilei Wen
 
-| [Project Page](https://avatarverse3d.github.io/) | [Github](https://github.com/bytedance/AvatarVerse) | [Paper](https://arxiv.org/abs/2308.03610)|
+| [Project Page](https://avatarverse3d.github.io/) | [Paper](https://arxiv.org/abs/2308.03610) |
 
 ![Avatar](./figs/avatarverse.gif)
 
